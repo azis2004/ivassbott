@@ -1,0 +1,6 @@
+{
+  "BOT_TOKEN": "1234567890:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "ADMIN_CHAT_ID": 123456789,
+  "IVASMS_COOKIES": "laravel_session=xxx; XSRF-TOKEN=yyy; cf_clearance=zzz",
+  "POLL_INTERVAL": 10
+}
